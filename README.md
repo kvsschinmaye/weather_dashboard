@@ -1,64 +1,58 @@
-Weather Dashboard (Flutter Web)
+🌤️ Weather Dashboard
 
-A simple and responsive Flutter Web Weather Dashboard that shows:
+A sleek, responsive Flutter Web weather app with real-time data, hourly updates, and a 5-day forecast — all with smooth animations and light/dark mode.
 
-🌡️ Current temperature
+🔗 Live Demo:
+https://kvsschinmaye.github.io/weather_dashboard/
 
-🕒 Hourly forecast
 
-📅 5-day forecast
+✨ Features:
 
-🌓 Light / Dark theme toggle
+ Search any city
+ Light / Dark mode
+ °C / °F toggle
+ Hourly forecast
+ 5-Day forecast
+ Animated weather icons
+ Mobile-friendly UI
 
-🔍 City search
 
-⚡ Smooth UI & gradient backgrounds
+## 📸 Screenshots
 
-📸 Features
+### ☀️ Light Mode  
+<div align="center">
+  <img src="screenshots/home-light-F.jpg" width="260" />
+  <img src="screenshots/hourly,5 day forecast-light.jpg" width="260" />
+  <img src="screenshots/light-home-C.jpg" width="260" />
+</div>
 
-Search weather by city
+---
 
-Shows temperature, weather condition, icons
+### 🌙 Dark Mode  
+<div align="center">
+  <img src="screenshots/dark-home-F.jpg" width="260" />
+  <img src="screenshots/hourly,5 day forecast-dark.jpg" width="260" />
+</div>
 
-Beautiful UI with gradients
 
-Fully responsive layout
-
-Supports web build using Flutter
-
-🛠️ Tech Stack
-
-Flutter (Web)
-
+🛠️ Tech
+Flutter Web
 OpenWeather API
+GitHub Pages
+GitHub Actions
 
-GitHub Pages for hosting
-
-📂 Folder Structure
-lib/
- ├── main.dart
- ├── widgets/
- ├── services/
- └── ui/
-web/
-build/
-
-▶️ Run Locally
+📦 Installation & Running Locally
+git clone https://github.com/kvsschinmaye/weather_dashboard.git
+cd weather_dashboard
 flutter pub get
 flutter run -d chrome
 
-🌐 Build for Web
-flutter build web
+🚀 Build for Web
+flutter build web --release
 
+📜 License
+MIT License.
 
-Output will be in:
-
-build/web/
-
-📦 Deployment
-
-This project uses GitHub Actions to automatically deploy to GitHub Pages whenever you push to the master branch.
-
-✨ Author
-
-KVSS Chinmaye
+👨‍💻 Author
+K V Sai Sri Chinmaye
+https://github.com/kvsschinmaye
