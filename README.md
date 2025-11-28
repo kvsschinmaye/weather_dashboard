@@ -29,17 +29,17 @@ https://kvsschinmaye.github.io/weather_dashboard/
 
 ### ☀️ Light Mode  
 <div align="center">
-  <img src="screenshots/home-light-F.jpg" width="260" />
-  <img src="screenshots/hourly,5dayforecast-light.jpg" width="260" />
-  <img src="screenshots/light-home-C.jpg" width="260" />
+  <img src="screenshots/home-light-F.jpeg" width="260" />
+  <img src="screenshots/hourly,5dayforecast-light.jpeg" width="260" />
+  <img src="screenshots/light-home-C.jpeg" width="260" />
 </div>
 
 ---
 
 ### 🌙 Dark Mode  
 <div align="center">
-  <img src="screenshots/dark-home-F.jpg" width="260" />
-  <img src="screenshots/hourly,5dayforecast-dark.jpg" width="260" />
+  <img src="screenshots/dark-home-F.jpeg" width="260" />
+  <img src="screenshots/hourly,5dayforecast-dark.jpeg" width="260" />
 </div>
 
 
