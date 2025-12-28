@@ -1,14 +1,14 @@
-🌤️ Weather Dashboard
+## 🌤️ Weather Dashboard
 
 A sleek, responsive Flutter Web weather app with real-time data, hourly updates, and a 5-day forecast — all with smooth animations and light/dark mode.
 
 
-🔗 Live Demo:
+## 🔗 Live Demo:
 
 https://kvsschinmaye.github.io/weather_dashboard/
 
 
-✨ Features:
+## ✨ Features:
 
  Search any city
  
@@ -43,7 +43,7 @@ https://kvsschinmaye.github.io/weather_dashboard/
 </div>
 
 
-🛠️ Tech
+## 🛠️ Tech
 
 Flutter Web
 
@@ -54,7 +54,7 @@ GitHub Pages
 GitHub Actions
 
 
-📦 Installation & Running Locally
+## 📦 Installation & Running Locally
 
 git clone https://github.com/kvsschinmaye/weather_dashboard.git
 
@@ -65,17 +65,17 @@ flutter pub get
 flutter run -d chrome
 
 
-🚀 Build for Web
+## 🚀 Build for Web
 
 flutter build web --release
 
 
-📜 License
+## 📜 License
 
 MIT License.
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 K V Sai Sri Chinmaye
 
